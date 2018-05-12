@@ -1,0 +1,43 @@
+_repo: '---------_34767'
+_version: 0.1.0
+alternative_title: Intentions. Greek
+contributor:
+  translator:
+    agent_name: Marpoutzoglou, Alex G.
+    alias: Μαρπουτζόλγου, Αλεξ.
+    gutenberg_agent_id: '37207'
+    url: http://www.gutenberg.org/2009/agents/37207
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+description: 'Translation of: Intentions'
+gutenberg_issued: '2010-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34767'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wainewright, Thomas Griffiths, 1794-1847'
+- !lcsh 'Authors, English -- 19th century -- Drama'
+- !lcsh 'Art critics -- Great Britain -- Biography'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcsh 'English drama'
+- !lcsh 'Authorship'
+- !lcsh 'Poisoners -- Great Britain -- Biography'
+- !lcc 'PR'
+title: Στοχασμοί
+url: http://www.gutenberg.org/ebooks/34767
